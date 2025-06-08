@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Hur AI-agenter förändrar juridiken",
+    "summary": "En översikt över hur Lex AI automatiserar juridiska flöden och sänker kostnader.",
+    "published": "2025-06-07",
+    "tags": [
+      "Lex AI",
+      "Juridik",
+      "Produktivitet"
+    ],
+    "url": "https://niti.se/articles/ai-i-juridiken"
+  },
+  {
+    "title": "Från Discord till IBKR – så funkar DayTrader AI",
+    "summary": "Så byggde jag en helautomatiserad tradingmotor baserat på communityidéer och realtidsdata.",
+    "published": "2025-06-06",
+    "tags": [
+      "Trading",
+      "Automation",
+      "IBKR"
+    ],
+    "url": "https://niti.se/articles/daytrader-ai"
+  },
+  {
+    "title": "YouTube Automation med AI – vad jag lärt mig hittills",
+    "summary": "Hur jag startade en AI-drivna YouTube-kanal utan att visa mitt ansikte – och vad som funkar.",
+    "published": "2025-06-05",
+    "tags": [
+      "YouTube",
+      "Automation",
+      "Passiv inkomst"
+    ],
+    "url": "https://niti.se/articles/youtube-automation"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Så bygger du en AI-agent med GPT-4",
+    "description": "Jag går igenom hur jag byggde Lex AI – en agent som skapar juridiska dokument.",
+    "videoId": "abc123",
+    "tags": [
+      "Lex AI",
+      "GPT-4",
+      "Juridik"
+    ]
+  },
+  {
+    "title": "AI för day trading – Discord + Streamlit + IBKR",
+    "description": "Demo av DayTrader AI som analyserar communitytrades och lägger order automatiskt.",
+    "videoId": "def456",
+    "tags": [
+      "Trading",
+      "Discord",
+      "IBKR"
+    ]
+  },
+  {
+    "title": "YouTube Automation – 3 månader in",
+    "description": "Hur det gått med min AI-drivna faceless kanal – statistik och lärdomar.",
+    "videoId": "ghi789",
+    "tags": [
+      "YouTube",
+      "AI",
+      "Automation"
+    ]
+  }
+]

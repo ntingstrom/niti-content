@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Lex AI",
+    "description": "En AI-agent som analyserar juridiska underlag och skapar färdiga stämningsansökningar.",
+    "tags": [
+      "AI",
+      "Juridik",
+      "Automation"
+    ],
+    "url": "https://niti.se#lex-ai"
+  },
+  {
+    "title": "DayTrader AI",
+    "description": "Automatisk analys av Discord-trades, tekniska indikatorer och IBKR-integration.",
+    "tags": [
+      "Trading",
+      "Discord",
+      "Streamlit",
+      "IBKR"
+    ],
+    "url": "https://niti.se#daytrader"
+  },
+  {
+    "title": "Tender AI",
+    "description": "AI som tolkar upphandlingstexter och skapar färdiga förslag – riktad mot vård och offentlig sektor.",
+    "tags": [
+      "Offentlig sektor",
+      "GPT",
+      "RFI/RFP"
+    ],
+    "url": "https://niti.se#tender"
+  },
+  {
+    "title": "Hapifi",
+    "description": "En AI-kompanjon för elever och lärare genom hela skoltiden. Ett långsiktigt edtech-projekt.",
+    "tags": [
+      "Edtech",
+      "Utbildning",
+      "Personlig AI"
+    ],
+    "url": "https://niti.se#hapifi"
+  },
+  {
+    "title": "YouTube Automation",
+    "description": "En AI-driven faceless YouTube-kanal om AI & automation för passiv inkomst.",
+    "tags": [
+      "YouTube",
+      "Automation",
+      "Innehåll"
+    ],
+    "url": "https://niti.se#youtube"
+  }
+]
